@@ -123,8 +123,9 @@ a {
   padding-left: 40px;
 }
 .alphapage .topsection .heart {
-  width: 50px;
+  width: 30px;
   cursor: pointer;
+  padding-top:20px;
   fill: transparent;
   stroke: black;
   stroke-width: 10;
